@@ -4,9 +4,13 @@ In above [board.ipynb](https://github.com/SatvikVirmani/engineering-graduate-sal
 
 ### Conclusion of the analysis
 
-1. Students belonging to **MP board** received higher packages than others <br> 2 out of 10 received higher than 6 lakh annually <br> 6 out of 10 received between 3 - 6 lakh annually
+1. Students belonging to **MP board** received higher packages than others
+- ###### 2 out of 10 received higher than 6 lakh annually
+- ###### 6 out of 10 received between 3 - 6 lakh annually
 
-2. Students belonging to **ISC board** also received higher packages than rest <br> 1 out of 10 received higher than 6 lakh annually <br> 8 out of 10 received between 3 - 6 lakh annually
+2. Students belonging to **ISC board** also received higher packages than rest
+- ###### 1 out of 10 received higher than 6 lakh annually
+- ###### 8 out of 10 received between 3 - 6 lakh annually
 
 3. Majority of the students opted same board in 12 class as they in 10 class
 
