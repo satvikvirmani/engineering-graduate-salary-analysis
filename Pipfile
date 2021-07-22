@@ -11,6 +11,7 @@ matplotlib = "*"
 seaborn = "*"
 sklearn = "*"
 numpy = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
