@@ -22,7 +22,7 @@
   - [x] Train a optimized regression model on data.
   - [x] Study impact of board only on Salary
   - [x] Study impact of percentage in school only on Salary
-  - [ ] Study impact of Specialization only on Salary
+  - [x] Study impact of Specialization only on Salary
 
  ## Dependencies
   <img src="https://img.shields.io/github/pipenv/locked/dependency-version/SatvikVirmani/engineering-graduate-salary-analysis/pandas?color=000000&logoColor=000000&style=for-the-badge">
